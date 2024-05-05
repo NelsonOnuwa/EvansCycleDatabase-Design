@@ -1,4 +1,4 @@
-Evans Cycle Database Proposal
+Evans Cycle Database Design
 
 Data Entities and Types
 

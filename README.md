@@ -1,6 +1,7 @@
 Evans Cycle Database Proposal
 
 Data Entities and Types
+
 To design our Evans cycle logical database, we would employ both logical and physical data
 modelling. Our logical data modelling is concerned with the "what", without paying attention
 to specific functions and capabilities of the database management system (DBMS) that will
